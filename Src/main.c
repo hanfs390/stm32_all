@@ -38,6 +38,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "stm32f1xx_hal.h"
+//#include "runLED.h"
 
 /* USER CODE BEGIN Includes */
 
@@ -98,7 +99,7 @@ int main(void)
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
-
+	//runLED();
   }
   /* USER CODE END 3 */
 
